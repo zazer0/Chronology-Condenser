@@ -2,7 +2,7 @@
 > A highly-available, parallelised system I built, architected, and hosted on Azure for an LLM automation startup!
 
 ## System Architecture Diagram
-![Architecture-Diagram](http://example.com)
+![Architecture-Diagram](./SystemArchitectureDiagram.png)
 
 # Things I considered
 
