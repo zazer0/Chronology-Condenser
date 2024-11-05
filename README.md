@@ -1,4 +1,4 @@
-# Azure Infra Project
+# Azure Chronology Condenser
 > A highly-available, parallelised system I built, architected, and hosted on Azure for an LLM automation startup!
 
 ## System Architecture Diagram
